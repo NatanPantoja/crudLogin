@@ -24,7 +24,7 @@ async function main() {
         res.send({
             success: true,
             statusCode: 200,
-            body: 'welcome To Primeburgeria'  /*vai aparacer essa mensagem quando entra no site */
+            body: 'Bem vindo á Primeburgeria'  /*vai aparacer essa mensagem quando entra no site */
         })
     })
 
@@ -42,4 +42,3 @@ async function main() {
 
 main()
 
-// Creio que fiz algo de errado na parte de autenticação do usuario, pos nesta parte que esta dando erro
